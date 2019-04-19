@@ -1,0 +1,3 @@
+project=dented_lotus
+test=rspec
+template=erb
