@@ -26,3 +26,5 @@ end
 group :production do
   # gem 'puma'
 end
+
+ruby '2.6.3'
